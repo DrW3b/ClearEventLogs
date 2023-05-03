@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/94005355/236051714-12852cd3-51b0-417f-9e73-648233c602ff.PNG)
 # Clear Event Logs
 
 This is a simple batch script that clears all Windows Event Logs. It uses the `wevtutil` command-line tool to clear each log.
